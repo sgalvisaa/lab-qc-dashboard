@@ -1,0 +1,6 @@
+assay_code,assay_name,instrument_type,units,spec_low,spec_high,target_tat_hours
+DNA-EXT,DNA extraction yield,Nucleic Acid Extractor,ng/uL,10.0,500.0,48
+RNA-EXT,RNA extraction yield,Nucleic Acid Extractor,ng/uL,5.0,500.0,48
+QPCR-GX,qPCR gene expression (Ct),qPCR,Ct,15.0,35.0,72
+QPCR-PT,qPCR pathogen screen (Ct),qPCR,Ct,15.0,38.0,72
+NGS-Q30,NGS read quality (% >= Q30),NGS Sequencer,%,80.0,100.0,120

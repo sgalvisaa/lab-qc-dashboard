@@ -1,0 +1,6 @@
+"station_id","n_results","n_reruns","pct_rerun","n_invalidated","pct_invalidated"
+"QPCR-01",592,25,4.2,9,1.5
+"QPCR-02",535,10,1.9,26,4.9
+"EXT-02",644,21,3.3,14,2.2
+"EXT-01",608,10,1.6,17,2.8
+"SEQ-01",222,7,3.2,7,3.2

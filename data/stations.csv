@@ -1,0 +1,6 @@
+station_id,instrument_type,location
+EXT-01,Nucleic Acid Extractor,Extraction Lab
+EXT-02,Nucleic Acid Extractor,Extraction Lab
+QPCR-01,qPCR,Molecular Lab
+QPCR-02,qPCR,Molecular Lab
+SEQ-01,NGS Sequencer,Sequencing Core

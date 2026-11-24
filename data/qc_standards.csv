@@ -1,0 +1,6 @@
+standard_id,assay_code,lot_number,nominal_value,units
+CTL-DNA-REF,DNA-EXT,L26-0412,50.0,ng/uL
+CTL-RNA-REF,RNA-EXT,L26-0419,40.0,ng/uL
+CTL-GX-POS,QPCR-GX,L26-0533,24.0,Ct
+CTL-PT-POS,QPCR-PT,L26-0540,27.0,Ct
+CTL-PHIX,NGS-Q30,L26-0601,93.0,%
