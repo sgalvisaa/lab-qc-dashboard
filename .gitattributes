@@ -1,0 +1,2 @@
+*.sql linguist-detectable=true
+scripts/generate_data.py linguist-detectable=false

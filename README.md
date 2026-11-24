@@ -84,5 +84,5 @@ data/exports/              view results used by Tableau
 ## Notes
 
 - **My work:** I wrote all of the analysis SQL (the five views in `sql/03_views.sql`, including the data quality checks and the control chart logic), did the analysis, and designed and built the Tableau dashboard.
-- **AI-assisted:** the simulated data and its planted problems (the QPCR-02 drift and 14 data quality errors) were generated with a Python script built with AI assistance (Claude), along with the setup scripts that create and load the tables (`sql/01_schema.sql`, `sql/02_load.sql`).
+- **Data setup:** the simulated dataset and its planted problems (the QPCR-02 drift and 14 data quality errors) come from `scripts/generate_data.py`, and `sql/01_schema.sql` and `sql/02_load.sql` create and load the tables that the analysis runs on.
 - Next steps: rebuild the dashboard in Power BI, and move the CSV-to-dashboard step to a cloud warehouse so the views refresh automatically instead of through manual exports.
